@@ -1,0 +1,193 @@
+[
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e0870500935",
+    "_parentId": "61253ef241c47e0870500933",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "test1",
+      "_attempts": 1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 100,
+      "_correctToPass": 80,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_submitAll": {
+      "_isEnabled": true,
+      "_insertAfterBlock": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": "right top"
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Cuestionario de evaluación ",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e0870500936",
+    "_parentId": "61253ef241c47e0870500931",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_submitAll": {
+      "_isEnabled": false,
+      "_insertAfterBlock": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e0870500937",
+    "_parentId": "61253ef241c47e0870500933",
+    "_type": "article",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_submitAll": {
+      "_isEnabled": false,
+      "_insertAfterBlock": ""
+    }
+  }
+]

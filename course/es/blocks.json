@@ -1,0 +1,310 @@
+[
+  {
+    "title": "1. ¿Qué es una célula?",
+    "displayTitle": "1. ¿Qué es una célula?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e0870500938",
+    "_parentId": "61253ef241c47e0870500935",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e0870500939",
+    "_parentId": "61253ef241c47e0870500937",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Cuestionario de evaluación ",
+    "displayTitle": "Cuestionario de evaluación ",
+    "body": "<p>¡Ha llegado el momento de mostrar los conocimientos obtenidos en el curso: <em>Las células</em>!</p><p>Este cuestionario está compuesto por 5 preguntas y para aprobarlo es necesario obtener un 80% de respuestas correctas.</p><p>Haz clic en \"Acceder\" para iniciar.</p>",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e087050093b",
+    "_parentId": "61253ef241c47e0870500936",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "2. Todas las células poseen las siguientes características estructurales:",
+    "displayTitle": "2. Todas las células poseen las siguientes características estructurales:",
+    "body": "<p><em>Puedes seleccionar varias opciones</em></p>",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e087050093a",
+    "_parentId": "61253ef241c47e0870500935",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "3. ¿Las células son capaces de dirigir su propia síntesis?",
+    "displayTitle": "3. ¿Las células son capaces de dirigir su propia síntesis?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e087050093c",
+    "_parentId": "61253ef241c47e0870500935",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "4. Selecciona la definición correcta de esta característica funcional",
+    "displayTitle": "4. Selecciona la definición correcta de esta característica funcional",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e087050093d",
+    "_parentId": "61253ef241c47e0870500935",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "5. ¿Cuál de estas imágenes corresponde a una célula?",
+    "displayTitle": "5. ¿Cuál de estas imágenes corresponde a una célula?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e087050093e",
+    "_parentId": "61253ef241c47e0870500935",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false
+    }
+  }
+]

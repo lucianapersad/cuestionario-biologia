@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Presentación",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "Acceder",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e0870500931",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/es/assets/f92ab53912c6f8ecdfa9c2f9666cac23b17d6ddd.png",
+        "_medium": "course/es/assets/f92ab53912c6f8ecdfa9c2f9666cac23b17d6ddd.png",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": "cover",
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Cuestionario de evaluación",
+    "displayTitle": " Cuestionario de evaluación",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Recuerda que este cuestionario está compuesto por 5 preguntas y para aprobarlo es necesario obtener un 80% de respuestas correctas.</p><p>Selecciona cada una de las respuestas y pulsa la opción \"Finalizar\"</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "Acceder",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61253ef241c47e0870500933",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/es/assets/f92ab53912c6f8ecdfa9c2f9666cac23b17d6ddd.png",
+        "_medium": "course/es/assets/f92ab53912c6f8ecdfa9c2f9666cac23b17d6ddd.png",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,639 @@
+[
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61253ef241c47e087050093f",
+    "_parentId": "61253ef241c47e0870500938",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Es la unidad morfológica y funcional de todo ser vivo.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "text": "Es un orgánulo que sintetizan ATP a expensas de los carburantes metabólicos.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Es un elemento químico que posee una serie de estructuras diferenciales.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61253ef241c47e0870500940",
+    "_parentId": "61253ef241c47e087050093a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Están rodeadas de una envoltura que las separa y comunica con el exterior.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0.5
+      },
+      {
+        "text": "Contienen un medio interno sólido.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Poseen material genético en forma de ADN.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0.5
+      },
+      {
+        "text": "Carecen de enzimas y otras proteínas.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61253ef241c47e0870500941",
+    "_parentId": "61253ef241c47e087050093c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Verdadero",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "text": "Falso",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61253ef241c47e0870500942",
+    "_parentId": "61253ef241c47e087050093d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Selecciona una opción",
+    "_items": [
+      {
+        "text": "La diferenciación:",
+        "_options": [
+          {
+            "text": "Es a menudo parte del ciclo celular en que las células forman estructuras especializadas relacionadas con la reproducción, la dispersión o la supervivencia.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Frecuentemente las células pueden interaccionar o comunicar con otras células.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Esto significa que hay cambios hereditarios (que ocurren a baja frecuencia en todas las células de modo regular).",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61253ef241c47e0870500943",
+    "_parentId": "61253ef241c47e087050093e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/es/assets/15d2c15f98d52436cb2f7c0ff0cf8c43bc5c4a5b.png",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Opción 1",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/es/assets/d7a6a8bfda966175d46159ae150e4a8451ad181c.png",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Opción 2",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Resultado",
+    "displayTitle": "Resultado",
+    "body": "",
+    "_id": "61253ef241c47e0870500946",
+    "_parentId": "61253ef241c47e0870500939",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": false,
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_assessmentId": "test1",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": "",
+      "_routeToAssessment": false
+    },
+    "_completionBody": "<p>Tu puntuación es de: {{score}} y el porcentaje de aciertos obtenido es de: {{scoreAsPercent}}%</p><p>{{{feedback}}}</p>",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "<p>Lo siento, no has aprobado el cuestionario.</p>",
+        "_allowRetry": false,
+        "_classes": ""
+      },
+      {
+        "_score": 60,
+        "feedback": "<p>No has aprobado</p>",
+        "_allowRetry": false,
+        "_classes": ""
+      },
+      {
+        "_score": 80,
+        "feedback": "<p>¡Felicidades! Has aprobado el cuestionario.</p>",
+        "_allowRetry": false,
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61253ef241c47e0870500947",
+    "_parentId": "61253ef241c47e087050093b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_loopStyle": "siblings",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Acceder",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  }
+]
